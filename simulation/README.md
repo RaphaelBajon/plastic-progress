@@ -8,3 +8,9 @@ Different processes will be addressed in the different papers:
 
 ## Waves
 The paper titled [Influence of waves on the 3D distribution of plastic in the ocean](https://github.com/RaphaelBajon/plastic-progress/main/simulation/waves/Bajon_2023.pdf) is available in the [waves](https://github.com/RaphaelBajon/plastic-progress/main/simulation/waves) folder. For further questions, do not hesitate to ask me.  
+
+## [Biofouling](https://github.com/RaphaelBajon/plastic-progress/main/simulation/biofouling)
+
+## [Fragmentation](https://github.com/RaphaelBajon/plastic-progress/main/simulation/fragmentation)
+
+## [Ice](https://github.com/RaphaelBajon/plastic-progress/main/simulation/ice)
